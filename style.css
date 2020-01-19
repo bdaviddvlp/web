@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("back.jpg");
+}
+
+h1{
+    text-align: center;
+    color:darkcyan;
+    padding-bottom: 10%;
+    
+}
+
+h2{
+    padding-bottom: 2%;
+    color:aliceblue;
+}
+ 
+.container{
+    padding-top: 5%;
+    padding-bottom: 5%
+}
+
